@@ -1,54 +1,97 @@
 # BerClock
 
-> **A modern desktop timekeeper for Windows.**
+> **Um gerenciador de tempo moderno para Windows.**
 
-BerClock is a Windows desktop application that brings alarms, timers, stopwatch tools and world clocks together in a dark interface inspired by ancient/relic aesthetics.
+O **BerClock** é uma aplicação desktop para Windows que reúne **alarmes, temporizador, cronômetro e relógios mundiais** em uma única ferramenta, com uma interface inspirada em elementos antigos, relíquias e artefatos místicos.
 
-The project combines a practical time-management toolkit with a distinctive gold-and-purple visual identity.
+O projeto combina funcionalidades práticas para gerenciamento de horários com uma identidade visual própria, baseada em tons escuros, dourado e roxo.
 
-## ✨ Features
+## 🎯 Motivação
 
-- ⏰ **Alarms**
-  - Custom labels
-  - Alarm groups
-  - Weekday scheduling
-  - Enable/disable alarms
-  - Custom audio or built-in system sounds
-  - Configurable duration
-  - Fade-in and fade-out
-- ⌛ **Timer**
-  - Hours, minutes and seconds
-  - Start, pause and reset controls
-- ⏱️ **Stopwatch**
-  - Start, pause and reset
-  - Millisecond display
-- 🌎 **World Clock**
-  - Rio de Janeiro
-  - New York
-  - London
-  - Tokyo
-- 🖥️ **Windows system tray**
-- 🎨 **Custom UI**
-  - Dark background
-  - Relic-inspired gold accents
-  - Purple/dark visual language
-- 🔔 **Dedicated alarm window**
-  - Full-screen-style presentation
-  - Countdown
-  - Audio playback
-  - Optional fade-out
-  - Visual assets/animations
+O BerClock nasceu de uma necessidade real dentro do ambiente escolar onde o projeto foi desenvolvido.
 
-## 🛠️ Technology
+A instituição já utilizava um programa de alarme para auxiliar na organização dos horários e da rotina do colégio. Com o uso diário, surgiu a necessidade de uma alternativa mais moderna, personalizável e adequada às necessidades da instituição.
+
+A partir dessa necessidade, o BerClock foi desenvolvido inicialmente como uma alternativa ao sistema de alarme utilizado no colégio, buscando oferecer uma experiência mais organizada e, ao mesmo tempo, incorporar recursos que não estavam disponíveis na ferramenta anterior.
+
+O projeto posteriormente evoluiu para uma aplicação mais completa, incorporando **temporizador, cronômetro, relógio mundial, gerenciamento de grupos de alarmes, reprodução de áudio e uma janela dedicada para a execução dos alarmes**.
+
+Embora tenha surgido para atender uma necessidade específica, o BerClock foi desenvolvido de forma que possa ser utilizado em diferentes ambientes que necessitem de uma ferramenta de controle de horários no Windows.
+
+## ✨ Recursos
+
+### ⏰ Alarmes
+
+- Criação de alarmes personalizados
+- Nome e identificação dos alarmes
+- Organização por grupos
+- Agendamento por dias da semana
+- Ativação e desativação individual
+- Reprodução de sons personalizados
+- Sons integrados do sistema
+- Duração configurável
+- Fade-in e fade-out do áudio
+- Janela dedicada para execução do alarme
+- Contagem regressiva durante a execução
+
+### ⌛ Temporizador
+
+- Definição de horas, minutos e segundos
+- Iniciar, pausar e reiniciar
+- Exibição do tempo restante
+
+### ⏱️ Cronômetro
+
+- Iniciar e pausar
+- Reiniciar
+- Exibição com precisão de milissegundos
+
+### 🌎 Relógio Mundial
+
+Exibição simultânea dos horários de diferentes localidades:
+
+- 🇧🇷 Rio de Janeiro
+- 🇺🇸 Nova York
+- 🇬🇧 Londres
+- 🇯🇵 Tóquio
+
+### 🖥️ Área de notificação do Windows
+
+O BerClock pode permanecer em execução na **bandeja do sistema**, permitindo que a aplicação continue funcionando sem ocupar espaço na área de trabalho.
+
+### 🎨 Interface personalizada
+
+A interface foi desenvolvida com uma identidade visual própria, utilizando:
+
+- Tema escuro
+- Elementos dourados inspirados em relíquias
+- Detalhes em tons de roxo
+- Elementos visuais inspirados em artefatos antigos
+- Interface dedicada para execução dos alarmes
+
+### 🔔 Janela de alarme
+
+A execução dos alarmes possui uma interface dedicada com:
+
+- Exibição do nome do alarme
+- Relógio em tempo real
+- Contagem regressiva
+- Reprodução de áudio
+- Fade-out configurável
+- Elementos visuais e animações
+
+## 🛠️ Tecnologias
+
+O BerClock foi desenvolvido utilizando:
 
 - **C#**
 - **.NET 10**
 - **Windows Forms**
-- **WPF** for the alarm presentation window
-- **NAudio** for audio playback
-- JSON-based application data
+- **WPF** — utilizado na interface dedicada dos alarmes
+- **NAudio** — reprodução e controle de áudio
+- **JSON** — armazenamento dos dados da aplicação
 
-## 📁 Project structure
+## 📁 Estrutura do projeto
 
 ```text
 BerClock/
@@ -67,67 +110,71 @@ BerClock/
 └── README.md
 ```
 
-> The repository can keep the existing `Win7AlarmClassic` project namespace while the product itself is presented publicly as **BerClock**.
+> O projeto mantém internamente o namespace `Win7AlarmClassic` por questões de compatibilidade e estrutura do código, enquanto **BerClock** é o nome público da aplicação.
 
-## 🚀 Running locally
+## 🚀 Executando localmente
 
-### Requirements
+### Requisitos
 
 - Windows
 - .NET 10 SDK
-- Visual Studio 2026, JetBrains Rider or another compatible .NET IDE
+- Visual Studio 2026, JetBrains Rider ou outra IDE compatível com .NET
 
-### Clone
+### Clonando o projeto
 
 ```bash
 git clone https://github.com/SEU-USUARIO/BerClock.git
 cd BerClock
 ```
 
-### Build
+### Compilando
 
 ```bash
 dotnet restore
 dotnet build
 ```
 
-### Run
+### Executando
 
 ```bash
 dotnet run --project Win7AlarmClassic
 ```
 
-## 📦 Publishing a Windows build
+## 📦 Gerando uma versão para Windows
 
-For a self-contained Windows x64 build:
+Para gerar uma versão **self-contained para Windows x64**:
 
 ```bash
 dotnet publish Win7AlarmClassic -c Release -r win-x64 --self-contained true
 ```
 
-The resulting files can be distributed as a Windows application package.
+Os arquivos publicados poderão ser encontrados na pasta de saída do processo de publicação e podem ser utilizados para distribuição da aplicação.
 
-## 🎨 Visual identity
+## 🎨 Identidade visual
 
-BerClock was designed around a relic/ancient-timekeeper concept rather than the usual flat modern clock interface.
+O BerClock foi concebido com uma proposta diferente das interfaces tradicionais de relógios e alarmes.
 
-Core visual references:
+Em vez de seguir exclusivamente o padrão de interfaces modernas e minimalistas, o projeto utiliza uma estética inspirada em **relíquias, artefatos antigos e elementos místicos**, criando uma identidade visual própria para a aplicação.
 
-- Background: `#0C0A10`
-- Gold: `#E8BE48`
-- Highlight gold: `#FFDA69`
+### Paleta principal
 
-The goal is a UI with a more physical, ornamental and collectible feel.
+| Elemento | Cor |
+|---|---|
+| Fundo | `#0C0A10` |
+| Dourado | `#E8BE48` |
+| Dourado claro | `#FFDA69` |
+
+A proposta é transmitir uma sensação de objeto antigo e elaborado, combinando essa estética com uma aplicação desktop funcional e moderna.
 
 ## 🖼️ Screenshots
 
-Place screenshots in `docs/` and reference them here:
+As imagens da aplicação ficam disponíveis na pasta `docs/`.
 
 ```md
 ![BerClock](docs/screenshot.png)
 ```
 
-A short animated demonstration can also be added:
+Uma demonstração animada também pode ser adicionada:
 
 ```md
 ![BerClock Demo](docs/demo.gif)
@@ -135,29 +182,36 @@ A short animated demonstration can also be added:
 
 ## 🗺️ Roadmap
 
-Possible future improvements:
+Algumas melhorias planejadas para versões futuras:
 
-- [ ] More alarm visualization themes
-- [ ] Additional world-clock locations
-- [ ] Improved animated alarm assets
-- [ ] More audio controls
-- [ ] Portable distribution package
-- [ ] Installer
-- [ ] Automatic update mechanism
-- [ ] Additional customization options
+- [ ] Novos temas visuais para os alarmes
+- [ ] Mais localidades no relógio mundial
+- [ ] Melhorias nas animações da janela de alarme
+- [ ] Mais opções de controle de áudio
+- [ ] Versão portátil
+- [ ] Instalador para Windows
+- [ ] Sistema de atualização automática
+- [ ] Mais opções de personalização
+- [ ] Melhorias de acessibilidade
 
-## 🤝 Development
+## 🤝 Desenvolvimento
 
-BerClock is an independently developed desktop project.
+O BerClock é um projeto desenvolvido de forma independente a partir de uma necessidade prática identificada em um ambiente escolar.
 
-Development may involve different programming tools and assistants as part of the development workflow. The repository's source code, decisions and final implementation should be treated according to the actual project history and applicable licenses.
+A aplicação evoluiu gradualmente de uma ferramenta voltada especificamente para alarmes para uma solução mais completa de gerenciamento de tempo para Windows.
 
-## 📄 License
+## 📄 Licença
 
-Choose and add a license before publishing the repository publicly.
+A licença do projeto deverá ser definida antes da publicação pública do repositório.
 
-If the project contains code, assets or components derived from another project, verify that project's license and attribution requirements first.
+Caso o projeto utilize código, bibliotecas, imagens, sons ou outros componentes derivados de terceiros, suas respectivas licenças e requisitos de atribuição devem ser verificados antes da distribuição.
 
 ---
 
-**BerClock** — *Time, forged in gold.*
+<p align="center">
+
+**BerClock**
+
+*Time, forged in gold.*
+
+</p>
