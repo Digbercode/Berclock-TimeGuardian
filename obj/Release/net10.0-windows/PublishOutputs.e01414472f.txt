@@ -1,0 +1,16 @@
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\publish\BerClock.exe
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\publish\BerClock.ico
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\publish\Assets\Wizard1.gif
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\publish\Assets\Wizard2.gif
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\publish\Assets\Wizard3.gif
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\publish\BerClock.dll
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\publish\BerClock.deps.json
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\publish\BerClock.runtimeconfig.json
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\publish\BerClock.pdb
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\publish\NAudio.dll
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\publish\NAudio.Asio.dll
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\publish\NAudio.Core.dll
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\publish\NAudio.Midi.dll
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\publish\NAudio.Wasapi.dll
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\publish\NAudio.WinForms.dll
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\publish\NAudio.WinMM.dll

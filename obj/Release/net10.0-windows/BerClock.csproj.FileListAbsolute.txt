@@ -1,0 +1,96 @@
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\BerClock.exe
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\BerClock.deps.json
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\BerClock.runtimeconfig.json
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\BerClock.dll
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\BerClock.pdb
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\NAudio.dll
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\NAudio.Asio.dll
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\NAudio.Core.dll
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\NAudio.Midi.dll
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\NAudio.Wasapi.dll
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\NAudio.WinForms.dll
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\NAudio.WinMM.dll
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock.csproj.AssemblyReference.cache
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\obj\Release\net10.0-windows\UI\AlarmRingWindow.baml
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\obj\Release\net10.0-windows\UI\AlarmRingWindow.g.cs
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock_MarkupCompile.cache
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock.g.resources
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock.AssemblyInfoInputs.cache
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock.AssemblyInfo.cs
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock.csproj.CoreCompileInputs.cache
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock.csproj.Up2Date
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock.dll
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\obj\Release\net10.0-windows\refint\BerClock.dll
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock.pdb
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock.genruntimeconfig.cache
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\obj\Release\net10.0-windows\ref\BerClock.dll
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\BerClock.ico
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\Assets\Wizard1.gif
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\Assets\Wizard2.gif
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\bin\Release\net10.0-windows\Assets\Wizard3.gif
+C:\Users\Berthold\Desktop\BerClock\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock_Content.g.cs
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\bin\Release\net10.0-windows\BerClock.ico
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\bin\Release\net10.0-windows\Assets\Wizard1.gif
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\bin\Release\net10.0-windows\Assets\Wizard2.gif
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\bin\Release\net10.0-windows\Assets\Wizard3.gif
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\bin\Release\net10.0-windows\BerClock.exe
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\bin\Release\net10.0-windows\BerClock.deps.json
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\bin\Release\net10.0-windows\BerClock.runtimeconfig.json
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\bin\Release\net10.0-windows\BerClock.dll
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\bin\Release\net10.0-windows\BerClock.pdb
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\bin\Release\net10.0-windows\NAudio.dll
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\bin\Release\net10.0-windows\NAudio.Asio.dll
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\bin\Release\net10.0-windows\NAudio.Core.dll
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\bin\Release\net10.0-windows\NAudio.Midi.dll
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\bin\Release\net10.0-windows\NAudio.Wasapi.dll
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\bin\Release\net10.0-windows\NAudio.WinForms.dll
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\bin\Release\net10.0-windows\NAudio.WinMM.dll
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock.csproj.AssemblyReference.cache
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\obj\Release\net10.0-windows\UI\AlarmRingWindow.baml
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\obj\Release\net10.0-windows\UI\AlarmRingWindow.g.cs
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock_Content.g.cs
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock_MarkupCompile.cache
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock.g.resources
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock.AssemblyInfoInputs.cache
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock.AssemblyInfo.cs
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock.csproj.CoreCompileInputs.cache
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock.csproj.Up2Date
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock.dll
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\obj\Release\net10.0-windows\refint\BerClock.dll
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock.pdb
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\obj\Release\net10.0-windows\BerClock.genruntimeconfig.cache
+C:\Users\Berthold\Desktop\BerClock - Copia\Win7AlarmClassic\obj\Release\net10.0-windows\ref\BerClock.dll
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\bin\Release\net10.0-windows\BerClock.ico
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\bin\Release\net10.0-windows\Assets\Wizard1.gif
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\bin\Release\net10.0-windows\Assets\Wizard2.gif
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\bin\Release\net10.0-windows\Assets\Wizard3.gif
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\bin\Release\net10.0-windows\BerClock.exe
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\bin\Release\net10.0-windows\BerClock.deps.json
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\bin\Release\net10.0-windows\BerClock.runtimeconfig.json
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\bin\Release\net10.0-windows\BerClock.dll
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\bin\Release\net10.0-windows\BerClock.pdb
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\bin\Release\net10.0-windows\NAudio.dll
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\bin\Release\net10.0-windows\NAudio.Asio.dll
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\bin\Release\net10.0-windows\NAudio.Core.dll
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\bin\Release\net10.0-windows\NAudio.Midi.dll
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\bin\Release\net10.0-windows\NAudio.Wasapi.dll
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\bin\Release\net10.0-windows\NAudio.WinForms.dll
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\bin\Release\net10.0-windows\NAudio.WinMM.dll
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\obj\Release\net10.0-windows\BerClock.csproj.AssemblyReference.cache
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\obj\Release\net10.0-windows\UI\AlarmRingWindow.baml
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\obj\Release\net10.0-windows\UI\AlarmRingWindow.g.cs
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\obj\Release\net10.0-windows\BerClock_Content.g.cs
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\obj\Release\net10.0-windows\BerClock_MarkupCompile.cache
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\obj\Release\net10.0-windows\BerClock.g.resources
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\obj\Release\net10.0-windows\BerClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\obj\Release\net10.0-windows\BerClock.AssemblyInfoInputs.cache
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\obj\Release\net10.0-windows\BerClock.AssemblyInfo.cs
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\obj\Release\net10.0-windows\BerClock.csproj.CoreCompileInputs.cache
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\obj\Release\net10.0-windows\BerClock.csproj.Up2Date
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\obj\Release\net10.0-windows\BerClock.dll
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\obj\Release\net10.0-windows\refint\BerClock.dll
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\obj\Release\net10.0-windows\BerClock.pdb
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\obj\Release\net10.0-windows\BerClock.genruntimeconfig.cache
+C:\Users\Berthold\Desktop\BerClock - Copia\Berclock\obj\Release\net10.0-windows\ref\BerClock.dll
